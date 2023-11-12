@@ -17,3 +17,9 @@ https://github.com/shafikovrr/8-01-1/tree/335f4ea140ad7a3fb93f4af105ed38c726f97a
 ```
 https://github.com/shafikovrr/8-01-1/network
 ```
+
+`Ссылка на граф коммитов (Задача 4)`
+
+```
+https://github.com/shafikovrr/8-01-1/network
+```
